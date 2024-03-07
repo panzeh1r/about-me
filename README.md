@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🚒 I'm Mehmet and I'm 20 years old.<br>🌎 From London, England.<br>🔥 I love to work on interesting and unique projects.<br>💻 Open to work and collaborate.<br>👾 I always improve my skills and myself every day.<br>😼 Bilingual (TR-EN), still learning languages for future opportunuties.
+👨‍🚒 I'm Mehmet and I'm 20 years old.<br>🌎 From London, England/Istanbul, Turkey.<br>🔥 I love to work on interesting and unique projects.<br>💻 Open to work and collaborate.<br>👾 I always improve my skills and myself every day.<br>😼 Bilingual (TR-EN), still learning languages for future opportunuties.
 
 
 # 💻 Tech Stack:
